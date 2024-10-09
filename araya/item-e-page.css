@@ -1,0 +1,184 @@
+.item-e-page-child {
+  position: absolute;
+  top: 179px;
+  left: 64px;
+  border-radius: 45px;
+  background-color: #d9d9d9;
+  width: 112px;
+  height: 758px;
+}
+.chievements13 {
+  font-size: 12px;
+  color: #656363;
+}
+.achievements7,
+.profile8 {
+  position: absolute;
+  top: 530px;
+  left: 77px;
+  display: inline-block;
+  width: 91px;
+  height: 28px;
+}
+.profile8 {
+  top: 413px;
+  left: 99px;
+}
+.icoutlineemojievents-icon6 {
+  position: absolute;
+  top: 462px;
+  left: 82px;
+  width: 77px;
+  height: 82px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.whatsapp-image-2024-10-02-at-27 {
+  position: absolute;
+  top: 43px;
+  left: 55px;
+  width: 119.4px;
+  height: 114px;
+  object-fit: contain;
+}
+.item-e-page-item {
+  top: 72px;
+  left: 592px;
+  border-radius: 45px;
+  background-color: #8b8b8b;
+  width: 640px;
+  height: 68px;
+}
+.item-e-page-inner,
+.item-e-page-item,
+.username7 {
+  position: absolute;
+  cursor: pointer;
+}
+.item-e-page-inner {
+  top: 60px;
+  left: 1300px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 94px;
+  height: 91px;
+}
+.username7 {
+  top: 157px;
+  left: 1317px;
+  font-size: 16px;
+}
+.events7 {
+  position: absolute;
+  top: 647px;
+  left: 99px;
+}
+.xtracurricular7 {
+  font-size: 24px;
+  color: #656363;
+}
+.extracurricular-achievements8 {
+  position: absolute;
+  top: 77px;
+  left: 195px;
+  font-size: 32px;
+}
+.home6 {
+  position: absolute;
+  top: 297px;
+  left: 99px;
+}
+.icoutlinehome-icon6 {
+  position: absolute;
+  top: 214px;
+  left: 77px;
+  width: 84px;
+  height: 95px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icroundcalendarmonth-icon6,
+.ictwotoneperson-icon6 {
+  position: absolute;
+  top: 579px;
+  left: 87px;
+  width: 67px;
+  height: 74px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ictwotoneperson-icon6 {
+  top: 341px;
+  left: 81px;
+  width: 77px;
+  height: 86px;
+}
+.item-e-page-child1,
+.item-e-page-child2 {
+  position: absolute;
+  left: 251px;
+  width: 1096px;
+}
+.item-e-page-child1 {
+  top: 214px;
+  border-radius: 45px 45px 0 0;
+  background-color: #fffcfc;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  height: 554px;
+}
+.item-e-page-child2 {
+  top: 768px;
+  border-radius: 0 0 45px 45px;
+  background-color: #000;
+  height: 198px;
+}
+.date-20-04-20248,
+.event8,
+.venu-rnd {
+  position: absolute;
+  font-family: Knewave;
+}
+.event8 {
+  top: 781px;
+  left: 293px;
+  font-size: 64px;
+  color: #fffcfc;
+  display: inline-block;
+  width: 327px;
+  height: 86px;
+}
+.date-20-04-20248,
+.venu-rnd {
+  top: 811px;
+  left: 1147px;
+  font-size: 20px;
+  color: #fff;
+}
+.venu-rnd {
+  top: 890px;
+  left: 290px;
+  font-size: 24px;
+  font-family: Kufam;
+  color: #fffcfc;
+  white-space: pre-wrap;
+}
+.materialsymbolsnetworkintellig-icon8 {
+  position: absolute;
+  top: 262px;
+  left: 467px;
+  width: 572px;
+  height: 419px;
+  object-fit: cover;
+}
+.item-e-page {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "ADLaM Display";
+}

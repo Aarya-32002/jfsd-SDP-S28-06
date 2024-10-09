@@ -1,0 +1,55 @@
+.search-page-child {
+  position: absolute;
+  top: 72px;
+  left: 592px;
+  border-radius: 45px;
+  background-color: #8b8b8b;
+  width: 640px;
+  height: 68px;
+}
+.whatsapp-image-2024-10-02-at-24 {
+  position: absolute;
+  top: 43px;
+  left: 55px;
+  width: 119.4px;
+  height: 114px;
+  object-fit: contain;
+}
+.search-page-inner,
+.username4 {
+  position: absolute;
+  cursor: pointer;
+}
+.search-page-inner {
+  top: 60px;
+  left: 1300px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 94px;
+  height: 91px;
+}
+.username4 {
+  top: 157px;
+  left: 1317px;
+}
+.xtracurricular4 {
+  font-size: 24px;
+  color: #656363;
+}
+.extracurricular-achievements5 {
+  position: absolute;
+  top: 77px;
+  left: 195px;
+  font-size: 32px;
+}
+.search-page {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "ADLaM Display";
+}

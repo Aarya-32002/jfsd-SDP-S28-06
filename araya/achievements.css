@@ -1,0 +1,370 @@
+.achievements-child {
+  position: absolute;
+  top: 179px;
+  left: 64px;
+  border-radius: 45px;
+  background-color: #d9d9d9;
+  width: 112px;
+  height: 758px;
+}
+.chievements2 {
+  font-size: 12px;
+  color: #656363;
+}
+.achievements2,
+.profile2 {
+  position: absolute;
+  top: 530px;
+  left: 77px;
+  display: inline-block;
+  width: 91px;
+  height: 28px;
+}
+.profile2 {
+  top: 413px;
+  left: 99px;
+}
+.icoutlineemojievents-icon1 {
+  position: absolute;
+  top: 462px;
+  left: 82px;
+  width: 77px;
+  height: 82px;
+  object-fit: cover;
+}
+.whatsapp-image-2024-10-02-at-21 {
+  position: absolute;
+  top: 43px;
+  left: 55px;
+  width: 119.4px;
+  height: 114px;
+  object-fit: contain;
+}
+.achievements-item {
+  position: absolute;
+  top: 72px;
+  left: 592px;
+  border-radius: 45px;
+  background-color: #8b8b8b;
+  width: 640px;
+  height: 68px;
+  cursor: pointer;
+}
+.achievements-inner {
+  position: absolute;
+  top: 60px;
+  left: 1300px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 94px;
+  height: 91px;
+}
+.username1 {
+  position: absolute;
+  top: 157px;
+  left: 1317px;
+  font-size: 16px;
+}
+.events1 {
+  position: absolute;
+  top: 647px;
+  left: 99px;
+}
+.xtracurricular1 {
+  font-size: 24px;
+  color: #656363;
+}
+.extracurricular-achievements1 {
+  position: absolute;
+  top: 77px;
+  left: 195px;
+  font-size: 32px;
+}
+.home1 {
+  position: absolute;
+  top: 297px;
+  left: 99px;
+}
+.icoutlinehome-icon1 {
+  position: absolute;
+  top: 214px;
+  left: 77px;
+  width: 84px;
+  height: 95px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icroundcalendarmonth-icon1,
+.ictwotoneperson-icon1 {
+  position: absolute;
+  top: 579px;
+  left: 87px;
+  width: 67px;
+  height: 74px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ictwotoneperson-icon1 {
+  top: 341px;
+  left: 81px;
+  width: 77px;
+  height: 86px;
+}
+.emojionemonotonetrophy,
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 188px;
+  border-radius: 0 45px 45px 0;
+  background-color: #fff;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  width: 882px;
+  height: 242px;
+}
+.emojionemonotonetrophy,
+.group-item {
+  left: 0;
+  border-radius: 45px 0 0 45px;
+  background-color: #000;
+  border: 1px solid #000;
+  width: 188px;
+}
+.group-item {
+  top: 332px;
+  left: 188px;
+  border-radius: 0 45px 45px 0;
+  background-color: #fff;
+  border: 3px solid #000;
+  width: 882px;
+}
+.emojionemonotonetrophy1,
+.emojionemonotonetrophy2,
+.group-child1,
+.group-inner {
+  position: absolute;
+  top: 332px;
+  left: 0;
+  border-radius: 45px 0 0 45px;
+  background-color: #000;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 188px;
+  height: 242px;
+}
+.emojionemonotonetrophy2,
+.group-child1,
+.group-inner {
+  top: 664px;
+  left: 188px;
+  border-radius: 0 45px 45px 0;
+  background-color: #fff;
+  border: 3px solid #000;
+  width: 882px;
+}
+.emojionemonotonetrophy2,
+.group-child1 {
+  left: 0;
+  border-radius: 45px 0 0 45px;
+  background-color: #000;
+  border: 1px solid #000;
+  width: 188px;
+}
+.group-child1 {
+  top: 996px;
+  left: 188px;
+  border-radius: 0 45px 45px 0;
+  background-color: #fff;
+  border: 3px solid #000;
+  width: 882px;
+}
+.emojionemonotonetrophy3,
+.emojionemonotonetrophy4,
+.group-child2 {
+  position: absolute;
+  top: 996px;
+  left: 0;
+  border-radius: 45px 0 0 45px;
+  background-color: #000;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 188px;
+  height: 242px;
+}
+.emojionemonotonetrophy4,
+.group-child2 {
+  top: 1328px;
+  left: 188px;
+  border-radius: 0 45px 45px 0;
+  background-color: #fff;
+  border: 3px solid #000;
+  width: 882px;
+}
+.emojionemonotonetrophy4 {
+  left: 0;
+  border-radius: 45px 0 0 45px;
+  background-color: #000;
+  border: 1px solid #000;
+  width: 188px;
+}
+.emojionemonotonetrophy-1-icon,
+.emojionemonotonetrophy-2-icon {
+  position: absolute;
+  top: 46px;
+  left: 16px;
+  width: 156px;
+  height: 150px;
+  object-fit: cover;
+}
+.emojionemonotonetrophy-2-icon {
+  top: 378px;
+}
+.emojionemonotonetrophy-3-icon,
+.emojionemonotonetrophy-4-icon,
+.emojionemonotonetrophy-5-icon {
+  position: absolute;
+  top: 710px;
+  left: 16px;
+  width: 156px;
+  height: 150px;
+  object-fit: cover;
+}
+.emojionemonotonetrophy-4-icon,
+.emojionemonotonetrophy-5-icon {
+  top: 1042px;
+}
+.emojionemonotonetrophy-5-icon {
+  top: 1374px;
+}
+.cricker {
+  position: absolute;
+  top: 23px;
+  left: 212px;
+  display: inline-block;
+  width: 150px;
+  height: 46px;
+}
+.batch-20-2024 {
+  position: absolute;
+  top: 62px;
+  left: 362px;
+  font-size: 16px;
+}
+.right-hand-batsman {
+  position: absolute;
+  top: 121px;
+  left: 212px;
+  font-size: 24px;
+  font-family: Kufam;
+  white-space: pre-wrap;
+}
+.cricker1 {
+  position: absolute;
+  top: 358px;
+  left: 212px;
+  display: inline-block;
+  width: 150px;
+  height: 46px;
+}
+.batch-20-20241 {
+  position: absolute;
+  top: 397px;
+  left: 362px;
+  font-size: 16px;
+}
+.right-hand-batsman1 {
+  position: absolute;
+  top: 456px;
+  left: 212px;
+  font-size: 24px;
+  font-family: Kufam;
+  white-space: pre-wrap;
+}
+.cricker2 {
+  position: absolute;
+  top: 681px;
+  left: 212px;
+  display: inline-block;
+  width: 150px;
+  height: 46px;
+}
+.batch-20-20242 {
+  position: absolute;
+  top: 720px;
+  left: 362px;
+  font-size: 16px;
+}
+.right-hand-batsman2 {
+  position: absolute;
+  top: 779px;
+  left: 212px;
+  font-size: 24px;
+  font-family: Kufam;
+  white-space: pre-wrap;
+}
+.cricker3 {
+  position: absolute;
+  top: 1030px;
+  left: 212px;
+  display: inline-block;
+  width: 150px;
+  height: 46px;
+}
+.batch-20-20243 {
+  position: absolute;
+  top: 1069px;
+  left: 362px;
+  font-size: 16px;
+}
+.right-hand-batsman3 {
+  position: absolute;
+  top: 1128px;
+  left: 212px;
+  font-size: 24px;
+  font-family: Kufam;
+  white-space: pre-wrap;
+}
+.cricker4 {
+  position: absolute;
+  top: 1342px;
+  left: 212px;
+  display: inline-block;
+  width: 150px;
+  height: 46px;
+}
+.batch-20-20244 {
+  position: absolute;
+  top: 1381px;
+  left: 362px;
+  font-size: 16px;
+}
+.right-hand-batsman4 {
+  position: absolute;
+  top: 1440px;
+  left: 212px;
+  font-size: 24px;
+  font-family: Kufam;
+  white-space: pre-wrap;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 247px;
+  left: 286px;
+  width: 1070px;
+  height: 1570px;
+  cursor: pointer;
+  font-size: 48px;
+  font-family: Knewave;
+}
+.achievements1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "ADLaM Display";
+}

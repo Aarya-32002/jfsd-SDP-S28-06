@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=ADLaM Display:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Knewave:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Kufam:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-1">
+      <div class="desktop-1-child"></div>
+      <div class="desktop-1-item"></div>
+      <div class="desktop-1-inner"></div>
+      <div class="hello-friend">Hello, Friend!</div>
+      <div class="rectangle-div" id="rectangle3"></div>
+      <div class="sign-up">SIGN UP</div>
+      <div class="sign-in" id="sIGNINText">SIGN IN</div>
+      <div class="desktop-1-child1"></div>
+      <div class="desktop-1-child2"></div>
+      <b class="sign-in1" >Sign in</b>
+      <div class="email">Email</div>
+      <div class="password">Password</div>
+      <div class="enter-your-personal">
+        Enter Your personal details and start journey with us
+      </div>
+      <div class="forgot-your-password">Forgot your password?</div>
+    </div>
+
+    <script>
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./desktop1.html";
+        });
+      }
+      
+      var sIGNINText = document.getElementById("sIGNINText");
+      if (sIGNINText) {
+        sIGNINText.addEventListener("click", function (e) {
+          window.location.href = "./desktop2.html";
+        });
+      }
+      </script>
+  </body>
+</html>

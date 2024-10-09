@@ -1,0 +1,121 @@
+.events-child {
+  position: absolute;
+  top: 179px;
+  left: 64px;
+  border-radius: 45px;
+  background-color: #d9d9d9;
+  width: 112px;
+  height: 758px;
+}
+.chievements6 {
+  font-size: 12px;
+  color: #656363;
+}
+.achievements4,
+.profile4 {
+  position: absolute;
+  top: 530px;
+  left: 77px;
+  display: inline-block;
+  width: 91px;
+  height: 28px;
+}
+.profile4 {
+  top: 413px;
+  left: 99px;
+}
+.icoutlineemojievents-icon3 {
+  position: absolute;
+  top: 462px;
+  left: 82px;
+  width: 77px;
+  height: 82px;
+  object-fit: cover;
+}
+.whatsapp-image-2024-10-02-at-23 {
+  position: absolute;
+  top: 43px;
+  left: 55px;
+  width: 119.4px;
+  height: 114px;
+  object-fit: contain;
+}
+.events-item {
+  position: absolute;
+  top: 72px;
+  left: 592px;
+  border-radius: 45px;
+  background-color: #8b8b8b;
+  width: 640px;
+  height: 68px;
+  cursor: pointer;
+}
+.events-inner {
+  position: absolute;
+  top: 60px;
+  left: 1300px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 94px;
+  height: 91px;
+}
+.username3 {
+  position: absolute;
+  top: 157px;
+  left: 1317px;
+  font-size: 16px;
+}
+.events4 {
+  position: absolute;
+  top: 647px;
+  left: 99px;
+}
+.xtracurricular3 {
+  font-size: 24px;
+  color: #656363;
+}
+.extracurricular-achievements4 {
+  position: absolute;
+  top: 77px;
+  left: 195px;
+  font-size: 32px;
+}
+.home3 {
+  position: absolute;
+  top: 297px;
+  left: 99px;
+}
+.icoutlinehome-icon3 {
+  position: absolute;
+  top: 214px;
+  left: 77px;
+  width: 84px;
+  height: 95px;
+  object-fit: cover;
+}
+.icroundcalendarmonth-icon3,
+.ictwotoneperson-icon3 {
+  position: absolute;
+  top: 579px;
+  left: 87px;
+  width: 67px;
+  height: 74px;
+  object-fit: cover;
+}
+.ictwotoneperson-icon3 {
+  top: 341px;
+  left: 81px;
+  width: 77px;
+  height: 86px;
+}
+.events3 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "ADLaM Display";
+}

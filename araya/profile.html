@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./profile.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=ADLaM Display:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Knewave:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Kufam:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="profile">
+      <div class="profile-child"></div>
+      <div class="achievements">
+        <span>A</span>
+        <span class="chievements">chievements</span>
+      </div>
+      <div class="profile1">
+        <span>P</span>
+        <span class="chievements">rofile</span>
+      </div>
+      <img
+        class="icoutlineemojievents-icon"
+        alt=""
+        src="./public/icoutlineemojievents@2x.png"
+        id="icOutlineEmojiEventsImage"
+      />
+
+      <img
+        class="whatsapp-image-2024-10-02-at-2"
+        alt=""
+        src="./public/whatsapp-image-20241002-at-202600-345f4586-1@2x.png"
+      />
+
+      <div class="profile-item" id="rectangle1"></div>
+      <div class="profile-inner"></div>
+      <div class="username">Username</div>
+      <div class="events">
+        <span>E</span>
+        <span class="chievements">vents</span>
+      </div>
+      <div class="extracurricular-achievements">
+        <span>E</span>
+        <span class="xtracurricular">
+          <span>xtracurricular</span>
+          <span> </span>
+        </span>
+        <span>
+          <span>A</span>
+        </span>
+        <span class="xtracurricular">chievements</span>
+      </div>
+      <div class="home">
+        <span>H</span>
+        <span class="chievements">ome </span>
+      </div>
+      <img
+        class="icoutlinehome-icon"
+        alt=""
+        src="./public/icoutlinehome@2x.png"
+        id="icOutlineHomeImage"
+      />
+
+      <img
+        class="icroundcalendarmonth-icon"
+        alt=""
+        src="./public/icroundcalendarmonth@2x.png"
+        id="icRoundCalendarMonthImage"
+      />
+
+      <img
+        class="ictwotoneperson-icon"
+        alt=""
+        src="./public/ictwotoneperson@2x.png"
+      />
+
+      <div class="profile-child1"></div>
+      <div class="ellipse-div"></div>
+      <div class="name">Name :</div>
+      <div class="age">Age :</div>
+      <div class="gender">Gender :</div>
+      <div class="nationality">Nationality :</div>
+      <div class="college">College :</div>
+      <div class="height">Height :</div>
+      <div class="date-of-birth">Date Of Birth :</div>
+    </div>
+
+    <script>
+      var icOutlineEmojiEventsImage = document.getElementById(
+        "icOutlineEmojiEventsImage"
+      );
+      if (icOutlineEmojiEventsImage) {
+        icOutlineEmojiEventsImage.addEventListener("click", function (e) {
+          window.location.href = "./achievements.html";
+        });
+      }
+      
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./search-page.html";
+        });
+      }
+      
+      var icOutlineHomeImage = document.getElementById("icOutlineHomeImage");
+      if (icOutlineHomeImage) {
+        icOutlineHomeImage.addEventListener("click", function (e) {
+          window.location.href = "./desktop2.html";
+        });
+      }
+      
+      var icRoundCalendarMonthImage = document.getElementById(
+        "icRoundCalendarMonthImage"
+      );
+      if (icRoundCalendarMonthImage) {
+        icRoundCalendarMonthImage.addEventListener("click", function (e) {
+          window.location.href = "./profile1.html";
+        });
+      }
+      </script>
+  </body>
+</html>

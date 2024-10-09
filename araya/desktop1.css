@@ -1,0 +1,149 @@
+.desktop-2-child {
+  position: absolute;
+  top: 166px;
+  left: 160px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 45px 0 0 45px;
+  background-color: #202020;
+  width: 560px;
+  height: 661px;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 537px;
+  left: 352px;
+  border-radius: 45px;
+  background-color: #fff;
+  width: 176px;
+  height: 51px;
+}
+.sign-in2 {
+  position: absolute;
+  top: 552px;
+  left: 403px;
+  font-size: 18px;
+  font-weight: 800;
+  color: #000;
+  white-space: pre-wrap;
+  cursor: pointer;
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 166px;
+  left: 720px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 0 45px 45px 0;
+  background-color: #fffcfc;
+  width: 560px;
+  height: 661px;
+}
+.desktop-2-child1 {
+  position: absolute;
+  top: 668px;
+  left: 882px;
+  border-radius: 45px;
+  background-color: #202020;
+  width: 176px;
+  height: 51px;
+}
+.sign-up1 {
+  position: absolute;
+  top: 683px;
+  left: 933px;
+  font-size: 18px;
+  font-weight: 800;
+  color: #fff;
+  cursor: pointer;
+}
+.desktop-2-child2 {
+  position: absolute;
+  top: 399px;
+  left: 759px;
+  border-radius: 15px;
+  background-color: #d9d9d9;
+  width: 422px;
+  height: 47px;
+}
+.name1 {
+  position: absolute;
+  top: 410px;
+  left: 780px;
+  font-weight: 600;
+}
+.desktop-2-child3 {
+  position: absolute;
+  top: 462px;
+  left: 759px;
+  border-radius: 15px;
+  background-color: #d9d9d9;
+  width: 422px;
+  height: 47px;
+}
+.email1 {
+  position: absolute;
+  top: 477px;
+  left: 780px;
+  font-weight: 600;
+}
+.desktop-2-child4 {
+  position: absolute;
+  top: 525px;
+  left: 759px;
+  border-radius: 15px;
+  background-color: #d9d9d9;
+  width: 422px;
+  height: 47px;
+}
+.password1 {
+  position: absolute;
+  top: 538px;
+  left: 780px;
+  font-weight: 600;
+}
+.desktop-2-child5 {
+  position: absolute;
+  top: 588px;
+  left: 759px;
+  border-radius: 15px;
+  background-color: #d9d9d9;
+  width: 422px;
+  height: 47px;
+}
+.to-keep-connected,
+.welcome-back {
+  position: absolute;
+  top: 400px;
+  left: 280px;
+  font-size: 48px;
+  font-weight: 500;
+  color: #fff;
+}
+.to-keep-connected {
+  top: 474px;
+  left: 286px;
+  font-size: 18px;
+}
+.sign-up2 {
+  position: absolute;
+  top: 296px;
+  left: 911px;
+  font-size: 48px;
+  color: #202020;
+}
+.confirm-password {
+  position: absolute;
+  top: 605px;
+  left: 777px;
+  font-weight: 600;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #656363;
+  font-family: Inter;
+}
